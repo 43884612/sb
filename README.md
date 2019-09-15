@@ -11,7 +11,7 @@ $ apt update
 $ apt upgrade
 $ apt install python
 $ apt install git
-$ git clone https://github.com/arifistifik/sb
+$ git clone https://github.com/43884612/sb
 $ cd sb
 $ python sb.py
 ```
@@ -19,7 +19,7 @@ $ python sb.py
 ## Installation for VPS
 
 ```sh
-$ git clone https://github.com/arifistifik/sb
+$ git clone https://github.com/43884612/sb
 $ cd sb
 $ python3 sb.py
 ```
